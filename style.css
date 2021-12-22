@@ -36,9 +36,6 @@
   }
   
   /**************** Searched Meal And Meal Details Styles ****************/
-  .cursor {
-    cursor: pointer;
-  }
   .meal-details-div img {
     width: 100%;
     border-radius: 1em 1em 0 0;

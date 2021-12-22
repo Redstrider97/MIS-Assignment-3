@@ -16,7 +16,7 @@ const createMealInfoDiv = (meal, mealInput) => {
     `
     const mealInfoSection = document.getElementById('meal-info-section');
     const mealInfoDiv = document.createElement('div');
-    mealInfoDiv.className = 'col-xm-1 col-sm-1 col-md-3 p-3 d-flex justify-content-center';
+    mealInfoDiv.className = 'col-4 p-3 d-flex justify-content-center';
     mealInfoDiv.innerHTML = mealInfo;
     mealInfoSection.appendChild(mealInfoDiv);
 }
