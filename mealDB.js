@@ -8,6 +8,7 @@ const createMealInfoDiv = (meal, mealInput) => {
             <div class="card-body">
                 <h5 class="card-title text-center">${mealName}</h5>
             </div>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
     </a>
     `
