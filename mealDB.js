@@ -54,4 +54,5 @@ else{
 }
 }
 
+
 document.getElementById('meal-submit').addEventListener('click',searchMeal);
