@@ -10,7 +10,6 @@
   }
   
   
-  /**************** Meal Search (Input + Button) Styles ****************/
   #meal-input {
     height: 6vh;
     border: none;
@@ -29,13 +28,12 @@
     color: #f8dd74;
   }
   
-  /**************** Meal Found Or Not ****************/
   #no-meal-found {
     color: #3b2d64;
     font-weight: bolder;
   }
   
-  /**************** Searched Meal And Meal Details Styles ****************/
+
   .meal-details-div img {
     width: 100%;
     border-radius: 1em 1em 0 0;
